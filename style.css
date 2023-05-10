@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(255, 255, 255, 0.836);
+  line-height: 1.5;
+}
+h1, h2, p {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(62, 85, 62);
+}
+
+i {
+  font-size: 25px;
+  color:rgb(62, 85, 62)
+}
+
+a {
+  text-decoration: none;
+  color: rgb(62, 85, 62);
+}
+
+a:hover {
+  color: rgb(151, 96, 12);
+  letter-spacing: 2px;
+}
+
+p {
+  font-size: 15px;
+  color: black;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  object-fit: cover;
+}
